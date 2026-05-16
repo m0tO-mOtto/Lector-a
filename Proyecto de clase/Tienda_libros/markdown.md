@@ -197,6 +197,6 @@ Este proyecto fue desarrollado para practicar:
 
 -------------------------------
 
-Autor
+Autores: Juan Manuel Patiño/Sebastián Gonzalez/Daniela Vivas
 
 Proyecto desarrollado como práctica de JavaScript moderno y POO.
