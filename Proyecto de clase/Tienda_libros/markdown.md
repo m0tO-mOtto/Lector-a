@@ -1,7 +1,7 @@
 Tienda Virtual de Libros
 
-Proyecto desarrollado en JavaScript utilizando Programación Orientada a Objetos (POO).  
-La aplicación permite visualizar un catálogo de libros, filtrarlos, buscarlos y administrarlos dentro de un carrito de compras interactivo.
+Proyecto desarrollado en JavaScript y HTML utilizando Programación Orientada a Objetos (POO).  
+La aplicación permite visualizar un catálogo de libros, categorizarlos, buscarlos y administrarlos dentro de un carrito de compras interactivo.
 
 -------------------------------
 
@@ -32,12 +32,12 @@ Tecnologías utilizadas
 Estructura del Proyecto
 
 ```bash
-📁 proyecto
+Tienda_libros
 │
 ├── index.html
 ├── style.css
 ├── app.js
-└── README.md
+└── markdown.md
 ```
 
 -------------------------------
